@@ -1,5 +1,8 @@
 # daily-autopiloter
-For each day, auto-generate a baseline TODO list (excluding one-offs for now) following this general idea:
+For each day, auto-generate a baseline TODO list (excluding one-offs for now) following the general idea of the lists below. 
+
+Upon **2-minute rule completion**, output "MVP Complete"
+Upon **full completion**, output "Full Completion"
 
 ## Monday
 - Lifting
