@@ -1,5 +1,5 @@
 # daily-autopiloter
-For each day, auto-generate a baseline TODO list
+For each day, auto-generate a baseline TODO list (excluding one-offs for now) following this general idea:
 
 ## Monday
 - Lifting
@@ -28,7 +28,7 @@ For each day, auto-generate a baseline TODO list
 - Prep regular clothes
 - Stretches and TV
 
-## Tuesday 2-minute rule
+## Tuesday 
 - Lifting
 - Running
 - Coding 1
