@@ -11,8 +11,8 @@ For each day, auto-generate a baseline TODO list
 - Music
 - Cleaning: Kitchen, living room, bathroom, wipe desk
 - Art
--   2D
--   3D
+  -   2D
+  -   3D
 - Reading
 - Writing
 - Coding 2
@@ -36,8 +36,8 @@ For each day, auto-generate a baseline TODO list
 - Cleaning: Kitchen, living room, bedroom, wipe desk
 - Writing Group 318
 - Art
--   2D
--   3D
+  -   2D
+  -   3D
 - Reading
 - Writing
 - Coding 2
@@ -59,8 +59,8 @@ For each day, auto-generate a baseline TODO list
 - Music
 - Cleaning: Kitchen, living room, fridge, wipe desk
 - Art
--   2D
--   3D
+  -   2D
+  -   3D
 - Reading
 - Writing
 - Coding 2
@@ -83,8 +83,8 @@ For each day, auto-generate a baseline TODO list
 - Music
 - Cleaning: Kitchen, living room, deck, wipe desk
 - Art
--   2D
--   3D
+  -   2D
+  -   3D
 - Reading
 - Writing
 - Coding 2
@@ -108,8 +108,8 @@ For each day, auto-generate a baseline TODO list
 - Music
 - Cleaning: Kitchen, living room, PC, wipe desk
 - Art
--   2D
--   3D
+  -   2D
+  -   3D
 - Reading
 - Writing
 - Coding 2
@@ -131,8 +131,8 @@ For each day, auto-generate a baseline TODO list
 - Music
 - Cleaning: Wipe desk
 - Art
--   2D
--   3D
+  -   2D
+  -   3D
 - Reading
 - Writing
 - Coding 2
@@ -157,8 +157,8 @@ For each day, auto-generate a baseline TODO list
 - Piano Performance OR run-through
 - Choir 
 - Art
--   2D
--   3D
+  -   2D
+  -   3D
 - Reading
 - Writing
 - Coding 2
