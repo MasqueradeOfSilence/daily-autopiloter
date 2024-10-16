@@ -25,6 +25,7 @@ Upon **full completion**, output "Full Completion"
 - Internet
 - Gaming
 - Game Development
+  -   Physics Programming
 - Career
 - Trello/Notion
 - Wash Bottles
@@ -50,6 +51,7 @@ Upon **full completion**, output "Full Completion"
 - Internet
 - Gaming
 - Game Development
+  -   Physics Programming
 - Career
 - Trello/Notion
 - Wash Bottles
@@ -73,6 +75,7 @@ Upon **full completion**, output "Full Completion"
 - Internet
 - Gaming
 - Game Development
+  -   Physics Programming
 - Career
 - Trello/Notion
 - Wash Bottles
@@ -97,6 +100,7 @@ Upon **full completion**, output "Full Completion"
 - Internet
 - Gaming
 - Game Development
+  -   Physics Programming
 - Career
 - Trello/Notion
 - Wash Bottles
@@ -122,6 +126,7 @@ Upon **full completion**, output "Full Completion"
 - Internet
 - Gaming
 - Game Development
+  -   Physics Programming
 - Career
 - Trello/Notion
 - Wash Bottles
@@ -145,6 +150,7 @@ Upon **full completion**, output "Full Completion"
 - Internet
 - Gaming
 - Game Development
+  -   Physics Programming
 - Career
 - Trello/Notion
 - Wash Bottles
@@ -171,6 +177,7 @@ Upon **full completion**, output "Full Completion"
 - Internet
 - Gaming
 - Game Development
+  -   Physics Programming
 - Career
 - Trello/Notion
 - Walking 2
