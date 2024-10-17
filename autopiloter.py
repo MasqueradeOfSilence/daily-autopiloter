@@ -47,6 +47,8 @@ monday_tasks = '''
     \u2022 Game Development
         \u25CB Physics Programming
     \u2022 Career
+        \u25CB Job market evaluations
+        \u25CB Freelancing (optional)
     \u2022 Trello/Notion
     \u2022 Wash Bottles
     \u2022 Prep gym clothes
@@ -89,6 +91,8 @@ tuesday_tasks = '''
     \u2022 Game Development
         \u25CB Physics Programming
     \u2022 Career
+        \u25CB Job market evaluations
+        \u25CB Freelancing (optional)
     \u2022 Trello/Notion
     \u2022 Wash Bottles
     \u2022 Prep gym clothes
@@ -128,6 +132,8 @@ wednesday_tasks = '''
     \u2022 Game Development
         \u25CB Physics Programming
     \u2022 Career
+        \u25CB Job market evaluations
+        \u25CB Freelancing (optional)
     \u2022 Trello/Notion
     \u2022 Wash Bottles
     \u2022 Stretches and TV
@@ -168,6 +174,8 @@ thursday_tasks = '''
     \u2022 Game Development
         \u25CB Physics Programming
     \u2022 Career
+        \u25CB Job market evaluations
+        \u25CB Freelancing (optional)
     \u2022 Trello/Notion
     \u2022 Wash Bottles
     \u2022 Stretches and TV
@@ -205,9 +213,12 @@ friday_tasks = '''
     \u2022 Visualization
     \u2022 Internet
     \u2022 Gaming
+        \u25CB Since it's Friday, leave at least an hour for this if you can!
     \u2022 Game Development
         \u25CB Physics Programming
     \u2022 Career
+        \u25CB Job market evaluations
+        \u25CB Freelancing (optional)
     \u2022 Trello/Notion
     \u2022 Wash Bottles
     \u2022 Stretches and TV
@@ -249,6 +260,8 @@ saturday_tasks = '''
     \u2022 Game Development
         \u25CB Physics Programming
     \u2022 Career
+        \u25CB Job market evaluations
+        \u25CB Freelancing (optional)
     \u2022 Trello/Notion
     \u2022 Wash Bottles
     \u2022 Stretches and TV
@@ -292,6 +305,8 @@ sunday_tasks = '''
     \u2022 Game Development
         \u25CB Physics Programming
     \u2022 Career
+        \u25CB Job market evaluations
+        \u25CB Freelancing (optional)
     \u2022 Trello/Notion
     \u2022 Walking 2
     \u2022 Wash Bottles
@@ -323,6 +338,5 @@ elif today == "Sunday":
 else:
     print(no_tasks_found)
 
-print("Consider freelance work\n\n")
-print("If 2-minute rule is complete, make a check on your calendar!")
+print("\n\nIf 2-minute rule is complete, make a check on your calendar!")
 print("If all tasks are completed to an adequate depth, put a star on top of the check!\n\n")
