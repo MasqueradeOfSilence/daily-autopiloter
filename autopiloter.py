@@ -132,3 +132,6 @@ elif today == "Thursday":
     print(thursday_tasks)
 else:
     print(no_tasks_found)
+
+print("If 2-minute rule is complete, make a check on your calendar!")
+print("If all tasks are completed to an adequate depth, put a star on top of the check!")
