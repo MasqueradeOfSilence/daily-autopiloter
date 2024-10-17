@@ -5,6 +5,8 @@ Upon **2-minute rule completion**, output "MVP Complete"
 
 Upon **full completion**, output "Full Completion"
 
+Based on Cal Newport's strategy. [Educate yourself](https://calnewport.com/monday-master-class-how-to-reduce-stress-and-get-more-done-by-building-an-autopilot-schedule/).
+
 ## Monday
 - Lifting
 - Running
