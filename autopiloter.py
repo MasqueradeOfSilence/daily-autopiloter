@@ -322,5 +322,6 @@ elif today == "Sunday":
 else:
     print(no_tasks_found)
 
+print("Consider freelance work\n\n")
 print("If 2-minute rule is complete, make a check on your calendar!")
-print("If all tasks are completed to an adequate depth, put a star on top of the check!")
+print("If all tasks are completed to an adequate depth, put a star on top of the check!\n\n")
