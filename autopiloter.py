@@ -39,7 +39,7 @@ monday_tasks = '''
         \u25CB FF
         \u25CB Poetry exercises
         \u25CB English review
-    \u2022 Coding 2: Embedded
+    \u2022 Coding 2: Website, Embedded
     \u2022 Engineering: Math, EE/ME
     \u2022 Visualization
     \u2022 Internet
@@ -83,7 +83,7 @@ tuesday_tasks = '''
         \u25CB FF
         \u25CB Poetry exercises
         \u25CB English review
-    \u2022 Coding 2: SWE
+    \u2022 Coding 2: Website, SWE
     \u2022 Engineering: Math, PLCs
     \u2022 Visualization
     \u2022 Internet
@@ -124,7 +124,7 @@ wednesday_tasks = '''
         \u25CB FF
         \u25CB Poetry exercises
         \u25CB English review
-    \u2022 Coding 2: IT/Cyber
+    \u2022 Coding 2: Website, IT/Cyber
     \u2022 Engineering: Math, EE/ME
     \u2022 Visualization
     \u2022 Internet
@@ -166,7 +166,7 @@ thursday_tasks = '''
         \u25CB FF
         \u25CB Poetry exercises
         \u25CB English review
-    \u2022 Coding 2: Graphics
+    \u2022 Coding 2: Website, Graphics
     \u2022 Engineering: Math, PLCs
     \u2022 Visualization
     \u2022 Internet
@@ -208,7 +208,7 @@ friday_tasks = '''
         \u25CB FF
         \u25CB Poetry exercises
         \u25CB English review
-    \u2022 Coding 2: Free choice
+    \u2022 Coding 2: Website, Free choice
     \u2022 Engineering: Math, theme park resort
     \u2022 Visualization
     \u2022 Internet
