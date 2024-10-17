@@ -19,6 +19,7 @@ monday_tasks = '''
     \u2022 [ACTIVITY] Pool and Water Slides
     \u2022 Music: Clarinet, Voice, Piano
     \u2022 Cleaning: Kitchen, living room, bathroom, wipe desk
+    \u2022 Make breakfast and lunch for tomorrow, make dinner for tonight
     \u2022 Art
         \u25CB 2D
             \u25aa Warm-Ups: Browse art sites, Posemaniacs daily pose, 2 Quickposes poses, 1 hand, 1 foot, 1 face, 1 anime, 1 animal, Drawabox
