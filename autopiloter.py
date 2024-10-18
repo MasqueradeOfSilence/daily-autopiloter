@@ -340,6 +340,7 @@ else:
     print(no_tasks_found)
 
 print("\n\nIf 2-minute rule is complete, make a check on your calendar!")
-print("If all tasks are completed to an adequate depth, put a star on top of the check!\n\n")
+print("If you break past the 2-minute rule on all tasks, put a moon on top of the check!")
+print("If all tasks are completed to an adequate depth, put a star on top of the moon and check!\n\n")
 # TODO PyQt (?) layout and actual task completion
 # TODO percentage in list of overarching tasks/projects
