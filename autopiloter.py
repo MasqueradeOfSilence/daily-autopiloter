@@ -189,6 +189,7 @@ friday_tasks = '''
     \u2022 Coding 1: DSA, Kaggle, Cybersec
     \u2022 Music: Clarinet, Voice, Piano
     \u2022 Cleaning: Kitchen, living room, PC, wipe desk
+    \u2022 Throw in laundry needed for Saturday's long run
     \u2022 Art
         \u25CB 2D
             \u25aa Warm-Ups: Browse art sites, Posemaniacs daily pose, 2 Quickposes poses, 1 hand, 1 foot, 1 face, 1 anime, 1 animal, Drawabox
@@ -208,6 +209,7 @@ friday_tasks = '''
         \u25CB FF
         \u25CB Poetry exercises
         \u25CB English review
+    \u2022 Submit for BOTH writing groups 
     \u2022 Coding 2: Website, Free choice
     \u2022 Engineering: Math, theme park resort
     \u2022 Visualization
