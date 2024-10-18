@@ -210,6 +210,7 @@ friday_tasks = '''
         \u25CB Poetry exercises
         \u25CB English review
     \u2022 Submit for BOTH writing groups 
+    \u2022 Read for 321 writing group
     \u2022 Coding 2: Website, Free choice
     \u2022 Engineering: Math, theme park resort
     \u2022 Visualization
@@ -292,6 +293,7 @@ sunday_tasks = '''
         \u25CB FF
         \u25CB NoSleep
         \u25CB Kindle
+    \u2022 Read for 318 writing group
     \u2022 Writing
         \u25CB Morning pages
         \u25CB Novel WIP x285 words
