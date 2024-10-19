@@ -1,6 +1,11 @@
 # Autopiloter
 # RUN: python3 autopiloter.py
 from datetime import date
+import sys
+import io
+
+# Set the encoding to UTF-8 for stdout
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 print("Welcome")
 
