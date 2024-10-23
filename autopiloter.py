@@ -281,6 +281,8 @@ saturday_tasks = '''
 sunday_tasks = '''
     \u2022 read lifting blogs / watch videos
     \u2022 Walking 1
+    \u2022 Weekly Planning on Trello/Notion
+    \u2022 Weekly Financial Audit and Budgeting
     \u2022 Coding 1: DSA, Kaggle, Cybersec
     \u2022 Music: Clarinet, Voice, Piano
     \u2022 Cleaning: Hand-washed laundry, rest of laundry, laundry room
